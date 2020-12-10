@@ -68,7 +68,7 @@ sections:
     title: Pay us lots of money so we can do something!
     subtitle: 'Like a summer program! '
     actions:
-      - label: Get Started
+      - label: Yeah. I will!
         url: /signup
         primary: true
   - section_id: recent-posts
