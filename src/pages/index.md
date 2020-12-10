@@ -23,7 +23,7 @@ sections:
           - label: Learn More
             url: /features
         image: images/download.png
-      - title: Awesome Feature of Your Services
+      - title: Some more showoffy stuff
         image_alt: App users welcoming a new member
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
