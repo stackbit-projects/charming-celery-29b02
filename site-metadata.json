@@ -11,7 +11,7 @@
             {
                 "label": "Features",
                 "url": "/features",
-                "primary": true
+                "primary": false
             },
             {
                 "label": "Pricing",
