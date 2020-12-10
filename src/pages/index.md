@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: banner
     type: section_hero
-    image: images/hero.png
     image_alt: App preview
     title: Stafford Lab
     content: 'Welcome to Stafford Labs, I''ll add more here later.'
