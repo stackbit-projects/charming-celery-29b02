@@ -10,7 +10,7 @@ sections:
       - label: About
         url: /features
         primary: true
-  - section_id: features
+  - section_id: about
     type: section_features
     background: gray
     title: About us
