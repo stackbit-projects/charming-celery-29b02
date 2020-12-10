@@ -12,7 +12,7 @@ sections:
         primary: true
   - section_id: about
     type: section_features
-    background: white
+    background: gray
     title: About us
     subtitle: We are something
     features:
