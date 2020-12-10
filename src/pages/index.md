@@ -18,10 +18,7 @@ sections:
     features:
       - title: Here's some stuff we do and have done
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: Lorem ipsum some labus stuffsum
         actions:
           - label: Learn More
             url: /features
