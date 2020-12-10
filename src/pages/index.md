@@ -18,7 +18,7 @@ sections:
     features:
       - title: Here's some stuff we do and have done
         image_alt: Image of people
-        content: Lorem ipsum some labus stuffsum
+        content: Lorem ipsum some labus staffordsum
         actions:
           - label: Learn More
             url: /features
