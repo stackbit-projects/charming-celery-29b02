@@ -1,7 +1,6 @@
 {
     "palette": "green",
     "header": {
-        "logo_img": "images/3.jpg",
         "has_nav": true,
         "nav_links": [
             {
