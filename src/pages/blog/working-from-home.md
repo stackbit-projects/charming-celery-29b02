@@ -1,5 +1,7 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: >-
+  Everything you ever wanted to know (And didn't really know you wanted to know)
+  about HDL
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities.
