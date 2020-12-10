@@ -14,9 +14,7 @@ sections:
     type: section_features
     background: gray
     title: About us
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: We are something
     features:
       - title: The Best Feature of Your Services
         image_alt: App preview on a phone and tablet
