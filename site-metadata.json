@@ -11,7 +11,7 @@
                 "label": "About us",
                 "url": "/features",
                 "primary": false,
-                "new_window": true
+                "new_window": false
             },
             {
                 "label": "Papers",
