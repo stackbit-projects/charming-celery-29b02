@@ -17,7 +17,7 @@ sections:
     subtitle: We are something
     features:
       - title: Here's some stuff we do and have done
-        image_alt: ''
+        image_alt: Image of people
         content: Lorem ipsum some labus stuffsum
         actions:
           - label: Learn More
