@@ -10,7 +10,7 @@ sections:
     actions:
       - label: About
         url: /features
-        primary: true
+        primary: false
   - section_id: features
     type: section_features
     background: gray
