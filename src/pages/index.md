@@ -66,7 +66,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Pay us lots of money so we can do something!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: 'Like a summer program! '
     actions:
       - label: Get Started
         url: /signup
