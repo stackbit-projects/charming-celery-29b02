@@ -27,7 +27,7 @@ sections:
         image_alt: App users welcoming a new member
         content: We have a bunch of papers and stuff
         actions:
-          - label: Learn More
+          - label: They're right here
             url: /features
       - title: Cool Feature of Your Services
         image: images/feature3.png
