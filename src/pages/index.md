@@ -8,7 +8,7 @@ sections:
     title: Stafford Lab
     content: 'Welcome to Stafford Labs, I''ll add more here later.'
     actions:
-      - label: Learn More
+      - label: About
         url: /features
         primary: true
   - section_id: features
