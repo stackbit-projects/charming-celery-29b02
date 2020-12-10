@@ -21,7 +21,7 @@
                 "url": "/style-guide"
             },
             {
-                "label": "Sign Up",
+                "label": "",
                 "url": "/signup",
                 "primary": true
             }
