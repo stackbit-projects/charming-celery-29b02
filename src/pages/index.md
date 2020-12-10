@@ -16,7 +16,7 @@ sections:
     title: About us
     subtitle: We are something
     features:
-      - title: The Best Feature of Your Services
+      - title: Here's some stuff we do and have done
         image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
