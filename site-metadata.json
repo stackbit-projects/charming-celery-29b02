@@ -10,7 +10,8 @@
             {
                 "label": "About us",
                 "url": "/features",
-                "primary": false
+                "primary": false,
+                "new_window": true
             },
             {
                 "label": "Papers",
