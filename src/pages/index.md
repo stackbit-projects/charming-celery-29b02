@@ -25,10 +25,7 @@ sections:
         image: images/download.png
       - title: Some more showoffy stuff
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: We have a bunch of papers and stuff
         actions:
           - label: Learn More
             url: /features
