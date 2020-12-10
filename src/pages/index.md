@@ -28,7 +28,7 @@ sections:
         content: We have a bunch of papers and stuff
         actions:
           - label: They're right here
-            url: /features
+            url: /papers
       - title: Cool Feature of Your Services
         image: images/feature3.png
         image_alt: App user profile preview
