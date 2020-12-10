@@ -2,9 +2,7 @@
 title: >-
   Everything you ever wanted to know (And didn't really know you wanted to know)
   about HDL
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+excerpt: Lorem ipsum!
 author: src/data/authors/jane-doe.yaml
 date: '2019-04-22'
 thumb_image: images/9_thumb.jpg
