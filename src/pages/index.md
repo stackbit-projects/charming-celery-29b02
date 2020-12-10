@@ -17,7 +17,7 @@ sections:
     subtitle: We are something
     features:
       - title: Here's some stuff we do and have done
-        image_alt: App preview on a phone and tablet
+        image_alt: ''
         content: Lorem ipsum some labus stuffsum
         actions:
           - label: Learn More
