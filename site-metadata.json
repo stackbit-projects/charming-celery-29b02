@@ -10,7 +10,8 @@
             },
             {
                 "label": "Features",
-                "url": "/features"
+                "url": "/features",
+                "primary": true
             },
             {
                 "label": "Pricing",
