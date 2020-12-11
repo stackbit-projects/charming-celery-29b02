@@ -26,7 +26,7 @@ sections:
         image: images/download.png
       - title: Some more showoffy stuff
         image_alt: App users welcoming a new member
-        content: We have a bunch of papers and stuff
+        content: sdfdsg
         actions:
           - label: They're right here
             url: /papers
