@@ -28,7 +28,7 @@ sections:
         image_alt: App users welcoming a new member
         content: sdfdsg
         actions:
-          - label: They're right here
+          - label: dsalfkjas;lkgjdslfk
             url: /papers
       - title: Cool Feature of Your Services
         image: images/feature3.png
