@@ -4,7 +4,7 @@ sections:
   - section_id: banner
     type: section_hero
     image_alt: App preview
-    title: Stafford Lab
+    title: asfd
     content: 'Welcome to Stafford Labs, I''ll add more here later.'
     actions:
       - label: About
