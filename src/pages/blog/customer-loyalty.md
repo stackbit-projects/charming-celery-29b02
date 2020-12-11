@@ -1,5 +1,5 @@
 ---
-title: A paper
+title: A thing somebody wrote
 subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
 excerpt: Take a look. It's sorta cool.
