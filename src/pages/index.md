@@ -15,7 +15,7 @@ sections:
     type: section_features
     background: gray
     title: About us
-    subtitle: We are something
+    subtitle: We are something else
     features:
       - title: Here's some stuff we do and have done
         image_alt: Image of people
