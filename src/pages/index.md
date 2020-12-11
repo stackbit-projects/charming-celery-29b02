@@ -29,7 +29,7 @@ sections:
         content: sdfdsg
         actions:
           - label: dsalfkjas;lkgjdslfk
-            url: /papers
+            url: /features
       - title: Cool Feature of Your Services
         image: images/feature3.png
         image_alt: App user profile preview
