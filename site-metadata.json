@@ -8,12 +8,6 @@
                 "url": "/"
             },
             {
-                "label": "About us",
-                "url": "/features",
-                "primary": false,
-                "new_window": false
-            },
-            {
                 "label": "Papers",
                 "url": "/pricing"
             },
