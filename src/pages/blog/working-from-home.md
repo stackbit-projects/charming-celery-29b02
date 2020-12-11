@@ -1,7 +1,5 @@
 ---
-title: >-
-  Everything you ever wanted to know (And didn't really know you wanted to know)
-  about HDL
+title: lol
 excerpt: Lorem ipsum!
 author: src/data/authors/jane-doe.yaml
 date: '2019-04-22'
