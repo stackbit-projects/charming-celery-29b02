@@ -5,7 +5,8 @@ sections:
     type: section_hero
     image_alt: App preview
     title: asfd
-    content: 'Welcome to Stafford Labs, I''ll add more here later.'
+    content: |
+      sf
     actions:
       - label: About
         url: /features
